@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello2</string>
+    <string name="tts_isEmpty">Introduce un texto</string>
+    <string name="tts_noActive">Servicio no disponible</string>
+    <string name="tts_active" />
+    <string name="txt_hintMessage">Escribe algo</string>
+    <string name="txt_btnPlay">Play</string>
+    <string name="txt_status_init">Hello kotlin!</string>
+</resources>
